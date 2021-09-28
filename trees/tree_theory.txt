@@ -1,0 +1,28 @@
+Two ways to traverse trees:
+	1. DFS - Depth First Search - using Stack
+	2. BFS - Breadth First Search - using Queue
+
+Types of Tree Traversals:
+	1. Inorder - LeftSelfRight
+	2. Preorder - SelfLeftRight
+	3. Postorder - LeftRightSelf
+
+Construction of trees with traversal pattern:
+	pre+in = unique tree can be constructed
+	post+in = unique tree can be constructed
+	post+pre = unique tree cannot be constructed
+
+Applications of Trees:
+	1. Vision Tree Classifier
+	2. Heirarchy
+	3. Parse Tree
+
+Binary Tree is like a tree
+A node can have only two children
+left child and right child are explicitly marked
+can have either a left child, or a right child or both
+
+Features of Trees:
+	1. Root node does not have a parent
+	2. All other nodes have only a single parent
+	3. No cycles
